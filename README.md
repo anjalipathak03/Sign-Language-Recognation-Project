@@ -1,2 +1,3 @@
-# Sign Language Recognation Project
+# Sign Language Recognition Project
+
  
