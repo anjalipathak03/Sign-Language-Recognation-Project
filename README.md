@@ -18,3 +18,17 @@ The project will involve the following key steps:
 5.	Integration: Integrating the trained models with text-to-speech or speech-to-text software to enable smooth communication.
 6.	Testing and Evaluation: Testing the system on a variety of sign language gestures and evaluating its accuracy and performance.
 
+## `Python library`
+1. Lastest pip -> pip install --upgrade pip
+
+2. numpy -> pip install numpy
+
+3. os-sys -> pip install os-sys
+
+4. opencv -> pip install opencv-python
+
+5. tensorFlow -> pip install tensorflow 
+
+6. keras -> pip install keras
+
+7. tkinter -> pip install tk
